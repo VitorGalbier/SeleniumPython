@@ -34,4 +34,4 @@ try:
             
 finally:
     print("Test ended")
-    # driver.close()
+    driver.close()
